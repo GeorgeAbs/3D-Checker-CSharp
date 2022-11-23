@@ -1,0 +1,10 @@
+C:\Users\Master of the World\source\repos\Проверка 3D на корректность (ГрРПЗР)\Проверка 3D на корректность (ГрРПЗР)\bin\Debug\Проверка 3D на корректность (ГрРПЗР).exe.config
+C:\Users\Master of the World\source\repos\Проверка 3D на корректность (ГрРПЗР)\Проверка 3D на корректность (ГрРПЗР)\bin\Debug\Проверка 3D на корректность (ГрРПЗР).exe
+C:\Users\Master of the World\source\repos\Проверка 3D на корректность (ГрРПЗР)\Проверка 3D на корректность (ГрРПЗР)\bin\Debug\Проверка 3D на корректность (ГрРПЗР).pdb
+C:\Users\Master of the World\source\repos\Проверка 3D на корректность (ГрРПЗР)\Проверка 3D на корректность (ГрРПЗР)\obj\Debug\Проверка 3D на корректность (ГрРПЗР).csprojAssemblyReference.cache
+C:\Users\Master of the World\source\repos\Проверка 3D на корректность (ГрРПЗР)\Проверка 3D на корректность (ГрРПЗР)\obj\Debug\Проверка_3D_на_корректность__ГрРПЗР_.Form1.resources
+C:\Users\Master of the World\source\repos\Проверка 3D на корректность (ГрРПЗР)\Проверка 3D на корректность (ГрРПЗР)\obj\Debug\Проверка_3D_на_корректность__ГрРПЗР_.Properties.Resources.resources
+C:\Users\Master of the World\source\repos\Проверка 3D на корректность (ГрРПЗР)\Проверка 3D на корректность (ГрРПЗР)\obj\Debug\Проверка 3D на корректность (ГрРПЗР).csproj.GenerateResource.cache
+C:\Users\Master of the World\source\repos\Проверка 3D на корректность (ГрРПЗР)\Проверка 3D на корректность (ГрРПЗР)\obj\Debug\Проверка 3D на корректность (ГрРПЗР).csproj.CoreCompileInputs.cache
+C:\Users\Master of the World\source\repos\Проверка 3D на корректность (ГрРПЗР)\Проверка 3D на корректность (ГрРПЗР)\obj\Debug\Проверка 3D на корректность (ГрРПЗР).exe
+C:\Users\Master of the World\source\repos\Проверка 3D на корректность (ГрРПЗР)\Проверка 3D на корректность (ГрРПЗР)\obj\Debug\Проверка 3D на корректность (ГрРПЗР).pdb
